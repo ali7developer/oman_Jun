@@ -1,0 +1,27 @@
+/* styles.css */
+.search-box {
+    padding: 10px 20px;
+    borderRadius: '4px';
+    border: '1px solid #ccc';
+    color: white;
+    border: blue;
+    font-size: 17px;
+    /* Add additional styles as needed */
+  }
+
+.curved-button {
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: rgb(134, 134, 141);
+    color: white;
+    border: blue;
+    font-size: 17px;
+    /* Add additional styles as needed */
+  }
+  
+  .curved-button:hover {
+    background-color: rgb(4, 4, 8);
+    color: yellow;
+    /* Add hover styles if desired */
+  }
+  

@@ -1,0 +1,32 @@
+/* styles.css */
+.banner {
+  text-align: center;
+
+
+  }
+  
+  .banner h1 {
+    font-size: 24px;
+    color: #f7f3f3;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .banner p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .banner-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 20px 20px;
+    border-radius: 20px;
+    font-size: 20px;
+  }
+  
+  .banner-button:hover {
+    background-color: darkblue;
+  }
+  
